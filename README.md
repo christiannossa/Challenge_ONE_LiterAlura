@@ -29,20 +29,20 @@ Challenge LiterAlura, realizado para el programa ONE de Oracle y AluraLATAM.
 - Paquete model.
   - Clase Autor:
     - `Funcionalidad 1`: Se crea la tabla para almacenar los datos de los autores.
-    - `Funcionalidad 2`: Se mapea la llave foranea con la entidad 'Libro'.
+    - `Funcionalidad 2`: Se mapea la llave foránea con la entidad 'Libro'.
     - `Funcionalidad 3`: Se crean los constructores sin argumentos, predeterminado y personalizado.
     - `Funcionalidad 4`: Se implementan los getters y setters.
   - Record Datos:
-    - `Funcionalidad 1`: Se inyecta a travez de un record la lista principal para poder acceder a los datos de la API de Gutendex.
+    - `Funcionalidad 1`: Se inyecta a través de un record la lista principal para poder acceder a los datos de la API de Gutendex.
   - Record DatosAutor:
-    - `Funcionalidad 1`: Se inyecta a travez de un record los datos de los autores.
+    - `Funcionalidad 1`: Se inyecta a través de un record los datos de los autores.
     - `Funcionalidad 2`: Se sobreescriben los elementos.
   - Record DatosLibro:
-    - `Funcionalidad 1`: Se inyecta a travez de un record los datos de los libros.
-    - `Funcionalidad 2`: Se sobreescriben los elememntos.
+    - `Funcionalidad 1`: Se inyecta a través de un record los datos de los libros.
+    - `Funcionalidad 2`: Se sobreescriben los elementos.
   - Clase Libro:
     - `Funcionalidad 1`: Se crea la tabla para almacenar los datos de los libros.
-    - `Funcionalidad 2`: Se mapea la llave foranea con la entidad 'Autor'.
+    - `Funcionalidad 2`: Se mapea la llave foránea con la entidad 'Autor'.
     - `Funcionalidad 3`: Se crean el constructor predeterminado y personalizado.
     - `Funcionalidad 4`: Se implementan los getters y setters.
 - Paquete principal.
@@ -60,17 +60,17 @@ Challenge LiterAlura, realizado para el programa ONE de Oracle y AluraLATAM.
     - `Funcionalidad 2`: Se realizan las consultas JPA y JPQL en la base de datos para Libro.
 - Paquete service.
   - Clase AutorService:
-    - `Funcionalidad 1`: Se inyecta el repsositorio para la clase Autor.
+    - `Funcionalidad 1`: Se inyecta el repositorio para la clase Autor.
     - `Funcionalidad 2`: Se crean los métodos para acceder a las consultas del repositorio AutorRepository.
   - Clase ConsumoAPI:
     - `Funcionalidad 1`: Se crea el método para consumir la API.
   - Clase ConvierteDatos:
     - `Funcionalidad 1`: Se conecta a la interface IConvierteDatos.
-    - `Funcionalidad 2`: Se sobreescribe el metodo obtenerDatos de la interface IConvierteDatos para realizar el mapeo de los datos en la API.
+    - `Funcionalidad 2`: Se sobreescribe el método obtenerDatos de la interface IConvierteDatos para realizar el mapeo de los datos en la API.
   - Interface IConvierteDatos:
-    - `Funcionalidad 1`: Se crea el metodo obtenerDatos para realizar el mapeo de los datos en la API.
+    - `Funcionalidad 1`: Se crea el método obtenerDatos para realizar el mapeo de los datos en la API.
   - Clase LibroService:
-    - `Funcionalidad 1`: Se inyecta el repsositorio para la clase Libro.
+    - `Funcionalidad 1`: Se inyecta el repositorio para la clase Libro.
     - `Funcionalidad 2`: Se crean los métodos para acceder a las consultas del repositorio LibroRepository.
   - Clase LiteraluraChallengeApplication:
     - `Funcionalidad 1`: Clase principal de la aplicación para ejecutar el proyecto.
