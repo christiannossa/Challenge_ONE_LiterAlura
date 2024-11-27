@@ -2,7 +2,7 @@
 Challenge LiterAlura, realizado para el programa ONE de Oracle y AluraLATAM.
 
 - Estado del proyecto: Finalizado con opción de actualización.
-  # Se desarrolló una aplicación en el framework Spring Boot para buscar datos de diferentes libros realizando la solicitud a la API de Gutendex y almacenarlos en una base de datos PostgreSQL, con la cual se pueden realizar diferentes consultas sobre los libros registrados.
+  # Se desarrolló una aplicación en el Framework Spring Boot para buscar datos de diferentes libros realizando la solicitud a la API de Gutendex y almacenarlos en una base de datos PostgreSQL, con la cual se pueden realizar diferentes consultas sobre los libros registrados.
   - En total, la aplicación está compuesta por los siguientes paquetes con las siguientes entidades:
 
     - model.
