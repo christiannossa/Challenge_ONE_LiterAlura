@@ -77,3 +77,52 @@ Challenge LiterAlura, realizado para el programa ONE de Oracle y AluraLATAM.
     - `Funcionalidad 2`: Se conecta a CommandLineRunner.
     - `Funcionalidad 3`: Se crea el método main.
     - `Funcionalidad 4`: Se inyecta la clase Principal para acceder al proyecto y ejecutar el método 'muestraElMenu'.
+- Capturas Proyecto.
+  - ![1](https://github.com/user-attachments/assets/f1206655-dbd4-4a01-82b5-488697fa4721)
+  - ![2](https://github.com/user-attachments/assets/edf43afe-36b5-433c-9de9-67e369e03cc3)
+  - ![3](https://github.com/user-attachments/assets/aedc54d4-3a8d-49b1-ac84-d9fe7132bacc)
+  - ![4](https://github.com/user-attachments/assets/dadeb051-9d12-4553-aa96-fba90b20c6d5)
+  - ![5](https://github.com/user-attachments/assets/da0e79ab-2082-4fd9-a1bf-3f88f841c3c3)
+  - ![6](https://github.com/user-attachments/assets/fed58525-fe7c-477e-a7c0-3492aae207f0)
+  - ![7](https://github.com/user-attachments/assets/39415fa0-71ca-44dd-bdc7-03d1f008e446)
+  - ![8](https://github.com/user-attachments/assets/e45968b9-20f0-4480-ace1-923062544e7c)
+  - ![9](https://github.com/user-attachments/assets/7e13e111-5ff6-44c3-bd2c-e3d8c0464ea7)
+  - ![10](https://github.com/user-attachments/assets/d15617c1-5f43-4c50-85b4-51127dbe8b3d)
+  - ![11](https://github.com/user-attachments/assets/e1bf1bd7-ab97-473a-937a-a12ba8b3acc2)
+  - ![12](https://github.com/user-attachments/assets/eede4af0-f043-4542-bef6-2e00130b48b8)
+  - ![13](https://github.com/user-attachments/assets/22f1b534-0c21-47ef-bd72-792d34009427)
+  - ![14](https://github.com/user-attachments/assets/05dc3f37-9e67-44e4-958e-073149c73ab3)
+  - ![15](https://github.com/user-attachments/assets/73186cc0-e910-4313-831e-10e163f4f4d1)
+  - ![16](https://github.com/user-attachments/assets/bbc66c00-6dd7-40dc-a8d0-53673f9a4166)
+  - ![17](https://github.com/user-attachments/assets/1330f1ec-bc3f-4b57-a337-cc411d8665c6)
+  - ![18](https://github.com/user-attachments/assets/d92c6066-60e9-44c8-9052-2cfc7cef47b1)
+  - ![19](https://github.com/user-attachments/assets/09896413-2783-4b88-8ad7-5199b3b9932f)
+  - ![20](https://github.com/user-attachments/assets/ca44e98e-768f-4ed1-af9b-9cebe9ebeb93)
+  - ![21](https://github.com/user-attachments/assets/ae5f2a71-20f3-4b0b-bab6-ac0f3af1a8bf)
+  - ![22](https://github.com/user-attachments/assets/9d9cd097-fa24-46a2-ba0a-823cba49149a)
+  - ![23](https://github.com/user-attachments/assets/3d8a71d2-606e-43a3-b11e-9f375c0df6e7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
