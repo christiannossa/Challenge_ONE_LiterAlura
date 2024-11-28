@@ -101,28 +101,7 @@ Challenge LiterAlura, realizado para el programa ONE de Oracle y AluraLATAM.
   - ![21](https://github.com/user-attachments/assets/ae5f2a71-20f3-4b0b-bab6-ac0f3af1a8bf)
   - ![22](https://github.com/user-attachments/assets/9d9cd097-fa24-46a2-ba0a-823cba49149a)
   - ![23](https://github.com/user-attachments/assets/3d8a71d2-606e-43a3-b11e-9f375c0df6e7)
+- Ejecución del proyecto:
+  - https://github.com/user-attachments/assets/187aeedd-90e1-4838-881b-364aee47e5fd
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
